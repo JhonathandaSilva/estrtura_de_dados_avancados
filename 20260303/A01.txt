@@ -2,3 +2,26 @@ mumemura@up.edu.br
 
 ------------------
 Conceito de arvores
+
+*Recursividade
+	Reconhecer soluções baseadas em algoritmos recursivos.
+	caso base -> Condição de parada
+
+	Tecnica de programacao onde uma funcao chama ela mesma
+
+Importancia da caso base
+	fundamental para evitar recursao infinita.
+	Se nao houver condicao de parada a funcao chama ela mesma indefinidamente,
+        resultando em erro "estou de pilha" ou "stack overflow"
+
+Exemplo de dados para ser usado em stack: 
+
+Satck = Dados sao alocados automaticamente
+
+Heap = Necessário uso do malok
+
+Thinking: O que são grafos.
+
+Exercicios
+	Fatorial
+	Fibonacci
