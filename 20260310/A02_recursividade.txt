@@ -1,1 +1,12 @@
-Problemas com recursividade
+Árvores
+
+! Torre de hanói
+! Notação Polonesa
+
+Listas encadeadas
+Listas duplamente encadeadas
+
+
+Litas
+	Implementação por vetoress
+	Vantagem da encadeada em relacao ao vetor?
