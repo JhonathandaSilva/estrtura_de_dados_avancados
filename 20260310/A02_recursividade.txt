@@ -6,7 +6,46 @@
 Listas encadeadas
 Listas duplamente encadeadas
 
-
 Litas
 	Implementação por vetoress
 	Vantagem da encadeada em relacao ao vetor?
+
+
+Conceitos Básicos
+	Caminho
+	Comprimento do caminho
+	Nível de profundidade de um nó
+
+* Nível da raiz (profundiade) é o 0
+* Árvore ordenada é aquela na qual os filhos de cada nó 
+  estão ordenados. Assume-se ordenação da esquerda para a 
+  direita.
+
+Árvore cheia:  se reflete a uma árvore que tem um certo grau.
+Árvore de grau 2 é uma árvore cujo nós tem 2 filhos.
+Árvore binária tem no máximo 2 filhos.
+Árvore vazia é árvore que não tem nós.
+
+Um árvore binária é:
+	uma árvore vazia ou 
+	um nó raiz com duas sub-árvores
+
+3 percursos básicos para percorrer uma árvore
+	pré-ordem
+		começa pela razi, lado esquerdo, lado direito 
+			sae - subarvore esquerda
+			sad - subarvore direita
+		exemplo: a b d c e f
+	ordem simétrica (ou In-Ordem)
+		percorre sae, trata raiz, percorre sad
+		exemplo: b d a e c f
+	pós-ordem
+		percorre sae, percorre sad, trata raiz
+		exemplo: d b e f c a
+
+
+?Analisar quando usar cada caso.
+pre--------> raiz no inicio- raiz/sae/sad
+in-ordem---> raiz no meio  - sae/raiz/sad
+pos-ordem--> raiz no fim   - sae/sad/raiz
+		
