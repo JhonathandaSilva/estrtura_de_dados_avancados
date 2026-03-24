@@ -1,0 +1,6 @@
+Arvore binária, 
+nós
+valor chave
+ponteiro nó direita
+ponteiro nó esquerda
+(*)ponteiro para nó pai
