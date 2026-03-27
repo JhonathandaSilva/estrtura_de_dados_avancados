@@ -4,3 +4,7 @@ valor chave
 ponteiro nó direita
 ponteiro nó esquerda
 (*)ponteiro para nó pai
+
+
+maior a esquerda
+menor a direita

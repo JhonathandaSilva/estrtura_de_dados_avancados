@@ -1,2 +1,15 @@
 Árvoes binárias - Conceitos
 
+Arvores cheia -----> Quanto todos os seus nós filhos tem duas sub-arvores associadas, só não tem filhos os nos folhas que são o ultimo nível.
+
+Arvore completa ---> Tipo de arovore que não apresenta a completude de nós em todos os filhos.
+
+Arvore degenerada ->[a->
+                       b->
+                         c->
+                           d-> 
+                             e ] é uma estrura de dados de árvore com caracteristica de lista. (Não parece uma árvore mas é uma árvore degenerada)/Não balanceada, falta equilibrio, tudo está pendente para o lado direito.
+
+BST -> Binary search tree.
+
+(?)Lista duplamente encadeada.
