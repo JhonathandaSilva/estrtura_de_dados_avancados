@@ -1,0 +1,2 @@
+AVL - Rotação simples à direita
+(!) Raiz de uma árvore não é imutável, a medida que os nós que entrem na árvore nada nos impede de alterar o nó raiz, que é o nó principal da árvore.
