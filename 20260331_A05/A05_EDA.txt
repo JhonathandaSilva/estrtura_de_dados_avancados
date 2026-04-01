@@ -1,2 +1,8 @@
 AVL - Rotação simples à direita
+	Serve apenas para trazer o banlaceamento da árvore.
 (!) Raiz de uma árvore não é imutável, a medida que os nós que entrem na árvore nada nos impede de alterar o nó raiz, que é o nó principal da árvore.
+
+AVL - Rotação Dupla
+	É utilizada quando do desbalanceamento da árvore ocorreu gerando um zigue-zague na estrutura da árvore.
+
+(?) Estudar qual rotação fazer.
